@@ -2,11 +2,11 @@
 Instructions 📋
 Download application
 
-Run terminal inside this folder
+- Run terminal inside this folder
 
-npm install --global http-server
+- npm install --global http-server
 
-Then you can run the server
+- Then you can run the server
 
 npx http-server
 
