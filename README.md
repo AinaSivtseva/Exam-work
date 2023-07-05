@@ -10,7 +10,7 @@ Download application
 
 "npx http-server"
 
-Browse to http:http://127.0.0.1:8080/
+Browse to http:http://192.168.0.103:8080/
 Live Demo https://ainasivtseva.github.io/Exam-work/
 
 
